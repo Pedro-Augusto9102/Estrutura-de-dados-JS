@@ -1,6 +1,6 @@
 function printArr(arr){
     arr.forEach(e => {
-        console.log(e+" ")
+        console.log(e)
     });
 }
 
